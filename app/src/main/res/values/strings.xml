@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FList</string>
+
+    <string name="checkbox">com.example.authentification.checkbox</string>
+    <string name="name">com.example.authentification.name</string>
+    <string name="password">com.example.authentification.password</string>
+
+
+    <string name="contact_details_phone"> Telephone number: 0767423281 </string>
+    <string name="contact_details_email"> Email address: saratele.bunebune@gmail.com </string>
+    <string name="contact_details_address"> Address: Bd.Elisabeta,nr 45, Bucharest </string>
+
+</resources>

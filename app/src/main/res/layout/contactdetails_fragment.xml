@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/blue">
+
+
+    <TextView
+        android:id="@+id/tV_contactdetails_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/contact_details_phone"
+        android:textStyle="bold|italic"/>
+
+    <TextView
+        android:id="@+id/tV_contactdetails_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/contact_details_email"
+        android:layout_below="@+id/tV_contactdetails_phone"
+        android:textStyle="bold|italic"/>
+
+    <TextView
+        android:id="@+id/tV_contactdetails_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/contact_details_address"
+        android:layout_below="@+id/tV_contactdetails_email"
+        android:textStyle="bold|italic"/>
+
+</RelativeLayout>
