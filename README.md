@@ -1,1 +1,1 @@
-This is a shopping list. (item suggestions included)
+This is a shopping list app for Android. (item suggestions included)
